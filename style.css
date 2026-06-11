@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, sans-serif;
+    background:#f2f2f2;
+    margin:0;
+    padding:20px;
+}
+
+h1{
+    text-align:center;
+}
+
+.container{
+    max-width:700px;
+    margin:auto;
+}
+
+input, textarea{
+    width:100%;
+    padding:10px;
+    margin:10px 0;
+}
+
+button{
+    padding:10px 20px;
+    background:#2563eb;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
+
+.post{
+    background:white;
+    padding:15px;
+    margin-top:20px;
+    border-radius:8px;
+}
+
+.comment-box{
+    width:100%;
+    margin-top:10px;
+}
